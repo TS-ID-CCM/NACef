@@ -31,3 +31,6 @@ To get started with the NACef dataset and the associated code, we recommend the 
 3. **Engage with the Community**: If you have questions, suggestions, or would like to contribute to the repository, don't hesitate to reach out. Collaboration is key to advancing research in this area.
 
 Thank you for your interest in the NACef Code Repository. We look forward to seeing the contributions this resource will make to the understanding and treatment of Community-Acquired Pneumonia.
+
+## Note 
+**Note**: NACef is maintained by TsIDCCM. For inquiries, support, or collaboration, please [contact us](mailto: nataliasahe@unisabana.edu.co).
