@@ -33,4 +33,5 @@ To get started with the NACef dataset and the associated code, we recommend the 
 Thank you for your interest in the NACef Code Repository. We look forward to seeing the contributions this resource will make to the understanding and treatment of Community-Acquired Pneumonia.
 
 ## Note 
-**Note**: NACef is maintained by TsIDCCM. For inquiries, support, or collaboration, please [contact us](mailto: nataliasahe@unisabana.edu.co).
+
+**Note**: NACef is maintained by TsIDCCM. For inquiries, support, or collaboration, please [contact us] (mailto:nataliasahe@unisabana.edu.co).
