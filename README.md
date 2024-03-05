@@ -34,4 +34,4 @@ Thank you for your interest in the NACef Code Repository. We look forward to see
 
 ## Note 
 
-**Note**: NACef is maintained by TsIDCCM. For inquiries, support, or collaboration, please [contact us] (mailto:nataliasahe@unisabana.edu.co).
+**Note**: NACef is maintained by TsIDCCM. For inquiries, support, or collaboration, please [contact us](mailto:nataliasahe@unisabana.edu.co).
