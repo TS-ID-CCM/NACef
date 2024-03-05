@@ -8,7 +8,7 @@ This repository is organized to facilitate easy access to the tools and informat
 
 - **Python Code**: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
 
-- **Studies**: Includes code and documentation for various studies conducted using the NACef dataset. This section aims to provide insights into the potential research applications of the dataset and to inspire new investigations.
+- **Dataset on Physionet**: For a comprehensive overview of the dataset, including descriptions of variables and details on the data collection process, please visit the corresponding dataset page on Physionet. Here, you can find additional resources to support your research endeavors.
 
 ## Acknowledgement
 
