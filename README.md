@@ -1,4 +1,4 @@
-# NACef Code Repository README
+# NACef Code Repository 
 
 Welcome to the NACef (Community-Acquired Pneumonia, Endotypes, and Phenotypes) Code Repository. This repository houses code and resources related to the NACef dataset, a comprehensive collection of clinical information from 768 patients diagnosed with Community-Acquired Pneumonia (CAP) at Clinica Universidad de La Sabana, Colombia. CAP is a significant infectious condition associated with high morbidity and mortality rates during hospitalization. The dataset includes Baseline Clinical Data, In-hospital follow-up, and post-hospital discharge information, captured in the context of a prospective research study, forming an observational cohort in translational medicine. This dataset is a valuable resource for conducting various statistical analyses and educational initiatives, enhancing our understanding of NAC, Endotypes, and Phenotypes.
 
