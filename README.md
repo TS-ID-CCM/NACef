@@ -6,7 +6,7 @@ Welcome to the NACef (Community-Acquired Pneumonia, Endotypes, and Phenotypes) C
 
 This repository is organized to facilitate easy access to the tools and information necessary for working with the NACef dataset. Here's what you can expect to find:
 
-- **Python Code**: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
+- **Code**: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
 
 - **Dataset on Physionet**: For a comprehensive overview of the dataset, including descriptions of variables and details on the data collection process, please visit the corresponding dataset page on Physionet. Here, you can find additional resources to support your research endeavors.
 
