@@ -9,6 +9,8 @@ This repository is organized to facilitate easy access to the tools and informat
 - **Code**: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
 
 - **Dataset on Physionet**: For a comprehensive overview of the dataset, including descriptions of variables and details on the data collection process, please visit the corresponding dataset page on Physionet. Here, you can find additional resources to support your research endeavors.
+  
+- **Data Dictionary**: The data dictionary available in this repository corresponds to the original study design used for data collection at Clínica Universidad de La Sabana. This version, directly exported from REDCap, is in Spanish. A translated and refined version of the data dictionary, adapted for broader accessibility, is available on Physionet.
 
 ## Acknowledgement
 
