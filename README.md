@@ -28,7 +28,7 @@ To get started with the NACef dataset and the associated code, we recommend the 
 
 1. **Familiarize Yourself with the Dataset**: Review the dataset documentation to understand its structure, types of data included, and the scope of the information it covers.
 
-2. **Explore the Python Code**: The provided Python scripts and notebooks are excellent starting points for conducting basic data analysis. They can help you learn how to manipulate the data, perform descriptive statistics, and visualize key findings.
+2. **Explore the Code**: The provided scripts and notebooks are excellent starting points for conducting basic data analysis. They can help you learn how to manipulate the data, perform descriptive statistics, and visualize key findings.
 
 3. **Engage with the Community**: If you have questions, suggestions, or would like to contribute to the repository, don't hesitate to reach out. Collaboration is key to advancing research in this area.
 
