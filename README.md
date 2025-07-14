@@ -6,13 +6,20 @@ Welcome to the NACef (Community-Acquired Pneumonia, Endotypes, and Phenotypes) C
 
 This repository is organized to facilitate easy access to the tools and information necessary for working with the NACef dataset. Here's what you can expect to find:
 
-- **Code**:
--- Descriptive_Data_NACef.R: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
+**Code**:
+- Descriptive_Data_NACef.R: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
 
-- **Documentation**:
--- NACef_DataDictionary_RedCap.csv: Original data dictionary exported directly from the REDCap platform used during data collection at Clínica Universidad de La Sabana. This file reflects the original study design and variable definitions in Spanish. It is provided as a historical reference and documentation of the clinical research process.
--- NACef_Metadata_XLM: A structured metadata file describing variable types, formats, and dataset structure.
--- NACef_RedCap.pdf: A PDF version of the original REDCap data collection instrument, included for transparency and replication support.
+**Documentation**:
+- NACef_DataDictionary_RedCap.csv: Original data dictionary exported directly from the REDCap platform used during data collection at Clínica Universidad de La Sabana. This file reflects the original study design and variable definitions in Spanish. It is provided as a historical reference and documentation of the clinical research process.
+- NACef_Metadata_XLM: A structured metadata file describing variable types, formats, and dataset structure.
+- NACef_RedCap.pdf: A PDF version of the original REDCap data collection instrument, included for transparency and replication support.
+
+## Dataset on Physionet 
+For access to the dataset and detailed variable definitions in English, please visit the official NACef dataset page on PhysioNet. There you will find:
+- The full dataset, including the most recent and prior versions as needed, is available on the PhysioNet project page. Updates are made periodically to reflect improvements in documentation, standardization, and data validation.
+- An English-translated and standardized data dictionary
+- Technical validation and metadata
+- Guidelines for responsible use under the PhysioNet Credentialed Health Data Use Agreement (CHDUG)
 
 ## Acknowledgement
 
