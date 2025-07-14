@@ -6,11 +6,13 @@ Welcome to the NACef (Community-Acquired Pneumonia, Endotypes, and Phenotypes) C
 
 This repository is organized to facilitate easy access to the tools and information necessary for working with the NACef dataset. Here's what you can expect to find:
 
-- **Code**: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
+- **Code**:
+-- Descriptive_Data_NACef.R: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
 
-- **Dataset on Physionet**: For a comprehensive overview of the dataset, including descriptions of variables and details on the data collection process, please visit the corresponding dataset page on Physionet. Here, you can find additional resources to support your research endeavors.
-  
-- **Data Dictionary**: The data dictionary available in this repository corresponds to the original study design used for data collection at Clínica Universidad de La Sabana. This version, directly exported from REDCap, is in Spanish. A translated and refined version of the data dictionary, adapted for broader accessibility, is available on Physionet.
+- **Documentation**:
+-- NACef_DataDictionary_RedCap.csv: Original data dictionary exported directly from the REDCap platform used during data collection at Clínica Universidad de La Sabana. This file reflects the original study design and variable definitions in Spanish. It is provided as a historical reference and documentation of the clinical research process.
+-- NACef_Metadata_XLM: A structured metadata file describing variable types, formats, and dataset structure.
+-- NACef_RedCap.pdf: A PDF version of the original REDCap data collection instrument, included for transparency and replication support.
 
 ## Acknowledgement
 
