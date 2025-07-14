@@ -7,7 +7,7 @@ Welcome to the NACef (Community-Acquired Pneumonia, Endotypes, and Phenotypes) C
 This repository is organized to facilitate easy access to the tools and information necessary for working with the NACef dataset. Here's what you can expect to find:
 
 **Code**:
-- Descriptive_Data_NACef.R: Contains scripts and notebooks that demonstrate how to perform descriptive statistics on the dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
+- Descriptive_Data_NACef.R: Contains scripts and notebooks that shows an example of how to perform descriptive statistics with this dataset. These resources are designed to help users understand the dataset structure, access data points, and start their analysis.
 
 **Documentation**:
 - NACef_DataDictionary_RedCap.csv: Original data dictionary exported directly from the REDCap platform used during data collection at Clínica Universidad de La Sabana. This file reflects the original study design and variable definitions in Spanish. It is provided as a historical reference and documentation of the clinical research process.
